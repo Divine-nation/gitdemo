@@ -1,0 +1,35 @@
+.form {
+    margin: 100px auto;
+    width: 300px;
+}
+
+form input, form button {
+    width: 100%;
+    margin-top: 10px;
+    height: 25px;
+    border-radius: 9px;
+}
+
+form button {
+    height: 30px;
+    background: linear-gradient(to right, rgb(49, 211, 92), rgb(43, 183, 218));
+    border: none;
+}
+
+button{
+    border: none;
+    background-color: turquoise;
+}
+
+ul {
+    display: flex;
+    gap: 30px
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+}
